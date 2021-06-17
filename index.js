@@ -26,7 +26,5 @@ class Circle {
         this.radius = withoutPi / 2;
     }
 
-    set area(area) {
-
-    }
+    // LOOK, YOU REMEMBERED YOUR MATH. Grandma would be so proud.
 }
